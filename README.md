@@ -1,8 +1,6 @@
 
 
-![Languages](https://img.shields.io/badge/languages-Python%20%2F%20SQL-%238b0000?style=flat-square)
-
-![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/bitcoin?color=%23F7931A&logoColor=%234D4D4D&style=flat-square)
+![Languages](https://img.shields.io/badge/languages-Python%20%2F%20SQL-%238b0000?style=flat-square) ![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/bitcoin?color=%23F7931A&logoColor=%234D4D4D&style=flat-square)
 
 # Bitcoin/USD Block Fees
 
