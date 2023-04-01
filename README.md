@@ -1,6 +1,6 @@
+![Languages](https://img.shields.io/badge/languages-Python%20%2F%20SQL-%23410a93?style=flat-square) ![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/bitcoin?color=%23F7931A&logoColor=%234D4D4D&style=flat-square)
 
-
-![Languages](https://img.shields.io/badge/languages-Python%20%2F%20SQL-%238b0000?style=flat-square) ![Coincap (Price USD)](https://img.shields.io/coincap/price-usd/bitcoin?color=%23F7931A&logoColor=%234D4D4D&style=flat-square)
+![block-fees](https://user-images.githubusercontent.com/88452822/229305432-ae96aae0-550b-49e2-8fd8-6bf2bb0757a3.png)
 
 # Bitcoin/USD Block Fees
 
@@ -15,10 +15,9 @@ It gives an idea of when and at what time of the day the sizes of the transactio
 
 #### Get block fees for 1 month
 
-```http
+```
   https://mempool.space/api/v1/mining/blocks/fees/1m
 ```
-
 
 
 ## Acknowledgements
